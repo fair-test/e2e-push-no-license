@@ -1,2 +1,1 @@
-# e2e-push-no-license
-README only, no license file
+# E2E Push - No License
